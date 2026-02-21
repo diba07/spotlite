@@ -99,4 +99,4 @@ Want me to start building this? I'd begin with the landing page and event browsi
 
 
 Build the event detail page first
-Build the organizer dashboard first
+Build the organizer dashboard first    
